@@ -2,7 +2,7 @@
 
 Dive into the Wild West and test your reflexes in this fast-paced cowboy dueling game!
 
-#Features:
+Features:
 
 Two modes of play: single bullet showdown or rapid-fire mode.
 Players can control two cowboys with distinct movement and firing mechanics.
@@ -13,7 +13,7 @@ Health points (hp) system.
 Momentum based movement for cowboys.
 Keys to move, jump, and shoot, offering intuitive gameplay.
 
-#Code Overview:
+Code Overview:
 
 Initialization of screen settings, character and bullet arrays.
 Welcome screen and mode selection interfaces.
